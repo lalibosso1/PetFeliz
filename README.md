@@ -54,7 +54,7 @@ Durante o desenvolvimento, os participantes aprofundaram conhecimentos em:
 
 ## 🎓 Projeto Acadêmico
 
-Este sistema foi desenvolvido como TCC para conclusão do curso de **Desenvolvimento de Sistemas** na **Etec Ermelinda Teixeira Gianinni**. O projeto demonstra a aplicação prática de competências técnicas, metodológicas e sociais adquiridas ao longo da formação.
+Este sistema foi desenvolvido como TCC para conclusão do curso de **Desenvolvimento de Sistemas** na **Etec Ermelinda Teixeira Giannini**. O projeto demonstra a aplicação prática de competências técnicas, metodológicas e sociais adquiridas ao longo da formação.
 
 ---
 
